@@ -1,4 +1,4 @@
-#student portfolio
+# Student portfolio
 
 Hey!Welcome to my portfolio.
 This is my personal portfolio in making.
